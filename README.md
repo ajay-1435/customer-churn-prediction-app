@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Customer Churn Prediction App
 
 An interactive machine learning app built with Streamlit to predict customer churn using the Telco dataset. Upload customer data, view churn predictions, and download results — all in one clean interface.
@@ -66,4 +65,3 @@ Built by Ajay
 Feel free to fork, star, or reach out for collaboration!
 =======
 # customer-churn-prediction-app
->>>>>>> 88179034e4ea68303540d9df55a9cc11d657062c
