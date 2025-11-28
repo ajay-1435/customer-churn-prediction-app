@@ -66,7 +66,7 @@ streamlit run app.py
 
 
 ## 📬 Contact
-Built by Ajay
+ <p> Built by Ajay
 Feel free to fork, star, or reach out for collaboration!
-=======
+=======</P>
 # customer-churn-prediction-app
