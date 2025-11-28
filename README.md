@@ -22,7 +22,7 @@ An interactive machine learning app built with Streamlit to predict customer chu
 ---
 
 ## 📦 Project Structure
-customer_churn_prediction/ 
+<p> customer_churn_prediction/ 
 ├── app.py
  ├── data/ │
     └── telco_churn.csv
@@ -34,7 +34,7 @@ customer_churn_prediction/
    ├── preprocess.py │   
    ├── train.py │   
    └── predict.py
-
+</p>
 
 ---
 
