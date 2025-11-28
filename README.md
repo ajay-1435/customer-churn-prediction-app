@@ -54,7 +54,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 👉 Click here to try it on Streamlit Cloud
-(Replace with your actual app link once deployed)
+(https://customer-churn-prediction-app-vkbsqfbefqtcxqb5zw6mf7.streamlit.app/)
 
 ## 📸 Screenshots
 Add screenshots of your app here once deployed
