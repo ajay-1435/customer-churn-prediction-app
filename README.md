@@ -53,11 +53,16 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 🌐 Live Demo
-👉 Click here to try it on Streamlit Cloud
-(https://customer-churn-prediction-app-vkbsqfbefqtcxqb5zw6mf7.streamlit.app/)
+<a href = https://customer-churn-prediction-app-vkbsqfbefqtcxqb5zw6mf7.streamlit.app/> click for live demo </a>
+
 
 ## 📸 Screenshots
-Add screenshots of your app here once deployed
+<img width="913" height="693" alt="image" src="https://github.com/user-attachments/assets/6e7dd927-737a-4d6d-93a6-32ab1204becb" />
+
+<img width="937" height="752" alt="image" src="https://github.com/user-attachments/assets/ef607253-3161-43c3-b35d-b2f1bfc94235" />
+<img width="909" height="443" alt="image" src="https://github.com/user-attachments/assets/05cd4738-44d0-46e1-bbb6-d4d417f7a8c2" />
+
+
 
 
 ## 📬 Contact
